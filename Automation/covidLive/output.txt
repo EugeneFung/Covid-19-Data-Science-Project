@@ -1,0 +1,35 @@
+Computing Region Movement Code ...
+Completed Computing
+Time Taken: 11:31 minutes
+______________________________
+Updating 'covid-19-live' Google Sheets ...
+Successfully updated 'current_region_change' sheet
+Successfully updated 'daily_region_change' sheet
+Completed Updating
+______________________________
+Computing General Statistics Code ...
+Completed Computing
+Time Taken: 00:25 seconds
+______________________________
+Updating 'covid-19-general-live' Google Sheets ...
+Successfully updated 'cases' sheet
+Successfully updated 'cases_mil' sheet
+Successfully updated 'tests' sheet
+Successfully updated 'tests_thou' sheet
+Successfully updated 'deaths' sheet
+Successfully updated 'deaths_mil' sheet
+Successfully updated 'vacs' sheet
+Successfully updated 'vacs_hundred' sheet
+Successfully updated 'stringency' sheet
+Completed Updating
+______________________________
+Computing General Statistics (AUS) Code ...
+Completed Computing
+Time Taken: 2.165260076522827 seconds
+______________________________
+Updating 'covid-19-general-live' Google Sheets ...
+Successfully updated 'au_cumulative' sheet
+Successfully updated 'au_daily' sheet
+Successfully updated 'au_vacs' sheet
+Completed Updating
+______________________________
