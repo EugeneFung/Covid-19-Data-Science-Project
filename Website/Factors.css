@@ -1,0 +1,155 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 447px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Poppins;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 3rem;
+  margin: 30px 0 0;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  margin: -116px auto 0 466px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 91px 0 0;
+}
+
+.u-section-1 .u-line-1 {
+  transform-origin: left center 0px;
+  margin-top: 48px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 542px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -164px;
+    margin-right: 406px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 157px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 619px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -167px;
+    margin-right: 188px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 160px;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-bottom: 2px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 744px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -218px;
+    margin-right: 12px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 211px;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 788px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -156px;
+    margin-right: 15px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 30px;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-top: 21px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 474px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: Poppins;
+  letter-spacing: 1px;
+  font-weight: 600;
+  margin: 30px 152px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 38px 0 0;
+}
+
+.u-section-2 .u-line-1 {
+  transform-origin: left center 0px;
+  margin-top: 42px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 359px;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: Poppins;
+  letter-spacing: 1px;
+  font-weight: 600;
+  margin: 30px 152px 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 40px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-2 {
+    margin-bottom: 60px;
+  }
+}
